@@ -268,9 +268,9 @@ fi
 if [ "$FORCE_VLC_4" = 1 ]; then
     LIBVLCJNI_TESTED_HASH=6337b790b501a9c132fdc7ec1a0c04313738cd96
 else
-    LIBVLCJNI_TESTED_HASH=24c0047f5697cc96e89ac86e2557ce319fc43c86
+    LIBVLCJNI_TESTED_HASH=d4b23698db34365440a8737bd3c54fa5a3628df3
 fi
-LIBVLCJNI_REPOSITORY=https://code.videolan.org/videolan/libvlcjni
+LIBVLCJNI_REPOSITORY=https://www.github.com/SteveParson/libvlcjni
 
 : ${VLC_LIBJNI_PATH:="$(pwd -P)/libvlcjni"}
 
