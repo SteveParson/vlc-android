@@ -268,7 +268,7 @@ fi
 if [ "$FORCE_VLC_4" = 1 ]; then
     LIBVLCJNI_TESTED_HASH=6337b790b501a9c132fdc7ec1a0c04313738cd96
 else
-    LIBVLCJNI_TESTED_HASH=625c3ede627a3b66f54a254d793757ede461495d
+    LIBVLCJNI_TESTED_HASH=6fcea53b2aecbfec805f699d8ed923dc6cd5c5fe
 fi
 LIBVLCJNI_REPOSITORY=https://www.github.com/SteveParson/libvlcjni
 
